@@ -1,0 +1,1 @@
+ERROR 2026-10-21 15:14:00 [deploy.py:42] NoneType object has no attribute 'fetch'
